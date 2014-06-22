@@ -1,6 +1,4 @@
-with Background_Task;
-
-procedure Demo is
+procedure Machine_Overflow_Check is
    type Scalar is digits 10;
 
    procedure Check (Item : in     Scalar);
@@ -15,4 +13,4 @@ procedure Demo is
 begin
    X := 0.0;     Check (X);
    X := 0.0 / X; Check (X);
-end Demo;
+end Machine_Overflow_Check;

@@ -26,5 +26,6 @@ obj/*.ali
 obj/*.o
 
 # Generated executables:
-bin/demo
+bin/finalization_and_task_termination
+bin/machine_overflow_check
 
