@@ -3,7 +3,7 @@ PROJECT=miscellaneous_ada_2005_examples
 GENERATED_EXECUTABLES=bin/finalization_and_task_termination \
                       bin/machine_overflow_check
 
-GENERATED_SOURCES=
+GENERATED_SOURCES=ahven
 
 SCRIPTS=
 
