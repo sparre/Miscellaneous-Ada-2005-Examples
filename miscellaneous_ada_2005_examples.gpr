@@ -6,7 +6,8 @@ project Miscellaneous_Ada_2005_Examples is
    for Source_Dirs use ("src/");
 
    for Main use ("finalization_and_task_termination",
-                 "machine_overflow_check");
+                 "machine_overflow_check",
+                 "self_referencing_objects");
 
    package Builder  renames Ada_2005.Builder;
    package Compiler renames Ada_2005.Compiler;
