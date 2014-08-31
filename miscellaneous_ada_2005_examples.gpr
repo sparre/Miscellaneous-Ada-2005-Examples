@@ -7,7 +7,8 @@ project Miscellaneous_Ada_2005_Examples is
 
    for Main use ("finalization_and_task_termination",
                  "machine_overflow_check",
-                 "self_referencing_objects");
+                 "self_referencing_objects",
+                 "use_smalltalk");
 
    package Builder  renames Ada_2005.Builder;
    package Compiler renames Ada_2005.Compiler;

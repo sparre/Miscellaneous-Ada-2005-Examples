@@ -31,4 +31,5 @@ tests/misc/*.o
 # Generated executables:
 bin/finalization_and_task_termination
 bin/machine_overflow_check
+bin/use_smalltalk
 
