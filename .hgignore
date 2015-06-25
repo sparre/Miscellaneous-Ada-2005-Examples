@@ -29,6 +29,7 @@ tests/misc/*.ali
 tests/misc/*.o
 
 # Generated executables:
+bin/ada_europe_2015_conference_dinner_exercise
 bin/finalization_and_task_termination
 bin/machine_overflow_check
 bin/use_smalltalk

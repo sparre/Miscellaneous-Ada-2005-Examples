@@ -1,6 +1,7 @@
 PROJECT=miscellaneous_ada_2005_examples
 
-GENERATED_EXECUTABLES=bin/finalization_and_task_termination \
+GENERATED_EXECUTABLES=bin/ada_europe_2015_conference_dinner_exercise \
+                      bin/finalization_and_task_termination \
                       bin/machine_overflow_check
 
 GENERATED_SOURCES=ahven
