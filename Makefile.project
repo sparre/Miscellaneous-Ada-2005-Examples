@@ -2,7 +2,8 @@ PROJECT=miscellaneous_ada_2005_examples
 
 GENERATED_EXECUTABLES=bin/ada_europe_2015_conference_dinner_exercise \
                       bin/finalization_and_task_termination \
-                      bin/machine_overflow_check
+                      bin/machine_overflow_check \
+                      bin/persistence_with_shared_passive
 
 GENERATED_SOURCES=ahven
 

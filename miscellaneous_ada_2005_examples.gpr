@@ -8,6 +8,7 @@ project Miscellaneous_Ada_2005_Examples is
    for Main use ("ada_europe_2015_conference_dinner_exercise",
                  "finalization_and_task_termination",
                  "machine_overflow_check",
+                 "persistence_with_shared_passive",
                  "self_referencing_objects",
                  "use_smalltalk");
 
