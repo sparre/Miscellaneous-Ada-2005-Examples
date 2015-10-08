@@ -6,10 +6,13 @@ project Miscellaneous_Ada_2005_Examples is
    for Source_Dirs use ("src/");
 
    for Main use ("ada_europe_2015_conference_dinner_exercise",
+                 "csv_digits",
                  "finalization_and_task_termination",
                  "machine_overflow_check",
                  "persistence_with_shared_passive",
                  "self_referencing_objects",
+                 "simple_command_parser_1",
+                 "tom_linje",
                  "use_smalltalk");
 
    package Builder  renames Ada_2005.Builder;

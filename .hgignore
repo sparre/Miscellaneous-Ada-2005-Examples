@@ -16,6 +16,7 @@ tests/*/*.output
 tests/misc/example_tests-run
 
 # Test output to clean up:
+tests/results
 
 # Output from source text metric analysis:
 obj/*.ad[sb].metrix
@@ -30,8 +31,11 @@ tests/misc/*.o
 
 # Generated executables:
 bin/ada_europe_2015_conference_dinner_exercise
+bin/csv_digits
 bin/finalization_and_task_termination
 bin/machine_overflow_check
 bin/persistence_with_shared_passive
+bin/simple_command_parser_1
+bin/tom_linje
 bin/use_smalltalk
 

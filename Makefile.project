@@ -1,9 +1,13 @@
 PROJECT=miscellaneous_ada_2005_examples
 
 GENERATED_EXECUTABLES=bin/ada_europe_2015_conference_dinner_exercise \
+                      bin/csv_digits \
                       bin/finalization_and_task_termination \
                       bin/machine_overflow_check \
-                      bin/persistence_with_shared_passive
+                      bin/persistence_with_shared_passive \
+                      bin/simple_command_parser_1 \
+                      bin/tom_linje \
+                      bin/use_smalltalk
 
 GENERATED_SOURCES=ahven
 
